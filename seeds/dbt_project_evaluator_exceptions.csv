@@ -1,0 +1,3 @@
+fct_name,column_name,id_to_exclude,comment
+fct_model_naming_conventions,resource_name,mrr,entity models like these are okay to exclude the dim_ or fct_ prefix
+fct_root_models,child,dim_dates,date model doesn't require any sources
